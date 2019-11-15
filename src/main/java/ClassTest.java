@@ -12,5 +12,5 @@ public class ClassTest {
     
     //le commentaire d'Emma
     //Coucou, c'est le commentaire de Nora
-    
+    //nouveau commentaire
 }
